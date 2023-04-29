@@ -1,9 +1,9 @@
-#Visa-Processing-System
+# Visa-Processing-System
 
 We developed an efficient software based application which will provide an automated way to maintain the information for visa processing. This Visa Processing System will speed up the time required to get the visa while the software is mainly used for applying for the visa also, it will store the information for the future transaction. 
 
 
-Features:
+## Features :↓
 * Submit visa applications
 
 * Track visa application status
@@ -14,7 +14,7 @@ Features:
 
 * Solely for the Tourist and student visa tracking
 
-Installation:
+## Installation :↓
 * To install and run the application on your local machine, follow these steps:
 
 1.Clone the repository to your local machine using Git
@@ -35,7 +35,7 @@ Installation:
 * Password: admin123
 
 
-Usage:
+## Usage :↓
 
 1.Once you are logged in , you can fill up the visa applications by navigating to the application form.
 
