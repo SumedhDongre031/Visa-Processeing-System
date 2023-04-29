@@ -43,6 +43,6 @@ We developed an efficient software based application which will provide an autom
 
 3.After submitting your application, you can track its status and view your application history by logging in as a user.
 
-Contributing:
+## Contributing :↓
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue. Pull requests are also welcome.
